@@ -1,5 +1,13 @@
-### Hi there 👋
+### Heyy
+Si tu es ici tu dois être interressé par mes projets farfelus et inutiles!
 
+Vous pouvez prendre tout le code sur cette page, même si il doit être laaaaargement optimisable.
+Mais mentionnez moi au moins ça fait plaiz :)
+Et essayez de comprendre!! je mets pleins de coms sur les repo publiques!!
+
+✨Merci d'avoir pris le temps de me lire✨
+
+⚡ Fun fact: on peut remplire la bouteille en UNE pression!
 <!--
 **LiquorLips/liquorlips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
