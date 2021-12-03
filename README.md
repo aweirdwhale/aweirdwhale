@@ -8,6 +8,7 @@ Et essayez de comprendre!! je mets pleins de coms sur les repo publiques!!
 ✨Merci d'avoir pris le temps de me lire✨
 
 ⚡ Fun fact: on peut remplire la bouteille en UNE pression!
+🏳️ L'image de photo de profile est de Mateja Marinko - red lips
 <!--
 **LiquorLips/liquorlips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
