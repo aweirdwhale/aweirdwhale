@@ -2,7 +2,7 @@
 Si tu es ici tu dois être interressé par mes projets farfelus et inutiles!
 
 Vous pouvez prendre tout le code sur cette page, même si il doit être laaaaargement optimisable.
-Mais mentionnez moi au moins ça fait plaiz :)
+Mais tout n'est pas de moi attention :)
 Et essayez de comprendre!! je mets pleins de coms sur les repo publiques!!
 
 ✨Merci d'avoir pris le temps de me lire✨
