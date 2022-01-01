@@ -8,18 +8,17 @@ Et essayez de comprendre!! je mets pleins de coms sur les repo publiques!!
 ✨Merci d'avoir pris le temps de me lire✨
 
 ⚡ Fun fact: on peut remplire la bouteille en UNE pression!
-🏳️ L'image de photo de profile est de Mateja Marinko - red lips
-<!--
-**LiquorLips/liquorlips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏳️ L'image de photo de profil est de Mateja Marinko - red lips
 
-Here are some ideas to get you started:
+Top 2022 code lines:
+```
+let x = 1;
+        while (x <= 2022) {
+            message.channel.send(`Happy new year ${x}!`);
+            x++;
+}
+```
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Discord](https://dicordapp.com/)
