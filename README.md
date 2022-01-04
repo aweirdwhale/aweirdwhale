@@ -1,3 +1,6 @@
+![Badge](https://img.shields.io/static/v1?label=&message=VSCode&logo=visual-studio-code&color=007ACC) ![Badge](https://img.shields.io/static/v1?label=&message=Node.JS&logo=node.js&color=9cf) ![Badge](https://img.shields.io/static/v1?label=Insta&message=Direct+App+(wip)&logo=instagram&color=blueviolet)
+
+
 ### Heyy
 Si tu es ici tu dois être interressé par mes projets farfelus et inutiles!
 
