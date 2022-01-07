@@ -1,27 +1,16 @@
-![Badge](https://img.shields.io/static/v1?label=&message=VSCode&logo=visual-studio-code&color=007ACC) ![Badge](https://img.shields.io/static/v1?label=&message=Node.JS&logo=node.js&color=9cf) ![Badge](https://img.shields.io/static/v1?label=Insta&message=Direct+App+(wip)&logo=instagram&color=blueviolet)
 
 
-### Heyy
-Si tu es ici tu dois être interressé par mes projets farfelus et inutiles!
 
-Vous pouvez prendre tout le code sur cette page, même si il doit être laaaaargement optimisable.
-Mais tout n'est pas de moi attention :)
-Et essayez de comprendre!! je mets pleins de coms sur les repo publiques!!
+### Hey
+I'm not a developer but I really like to tinker with useless things, either physically by skinning objects or virtually by skinning programs and creating my own :)
 
-✨Merci d'avoir pris le temps de me lire✨
+✨**Some things i'm tweaking**✨ <br>
+![Badge](https://img.shields.io/static/v1?label=&message=VSCode&logo=visual-studio-code&color=007ACC) ![Badge](https://img.shields.io/static/v1?label=&message=Node.JS&logo=node.js&color=9cf) ![badge](https://img.shields.io/static/v1?label=&message=Discord.JS&color=9cf&logo=discord) <br> ![badge](https://img.shields.io/static/v1?label=&message=Androz2091/Insta.js&color=9cf&logo=instagram) ![badge](https://img.shields.io/static/v1?label=&message=npm&color=red&logo=npm) ![badge](https://img.shields.io/static/v1?label=&message=TypeScript&color=grey&logo=typescript)
 
-⚡ Fun fact: on peut remplire la bouteille en UNE pression!
-🏳️ L'image de photo de profil est de Mateja Marinko - red lips
+**Infos** <br>
+🏳️ Profile picture is by Mateja Marinko - red lips
 
-Top 2022 code lines:
-```
-let x = 1;
-        while (x <= 2022) {
-            message.channel.send(`Happy new year ${x}!`);
-            x++;
-}
-```
 <br>
 <br>
 
-[Discord](https://dicordapp.com/)
+
