@@ -1,8 +1,8 @@
 
 
 
-### Hi there, I'm a weird whale ! ✋
-<code>A student looking to become Creatrive Coder 😎</code>
+## Hi there, I'm a weird whale ! ✋
+<i>A student looking to become Creatrive Coder 😎</i>
 
 
 <br />
