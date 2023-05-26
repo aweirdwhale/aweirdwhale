@@ -1,18 +1,41 @@
 
 
 
-### Hi there! ✋
-I'm looking to become a front-end dev!
-I really like reverse engeenering, and I'm tinkering with stuff in my corner (an unsociable geek in fact)
+### Hi there, I'm a weird whale ! ✋
+<code>A student looking to become Creatrive Coder 😎</code>
 
 
-✨**Some things i'm tweaking**✨ <br>
-![Badge](https://img.shields.io/static/v1?label=&message=VSCode&logo=visual-studio-code&color=007ACC) ![Badge](https://img.shields.io/static/v1?label=&message=Node.JS&logo=node.js&color=9cf) ![badge](https://img.shields.io/static/v1?label=&message=Discord.JS&color=9cf&logo=discord) <br> ![badge](https://img.shields.io/static/v1?label=&message=Androz2091/Insta.js&color=9cf&logo=instagram) ![badge](https://img.shields.io/static/v1?label=&message=npm&color=red&logo=npm) ![badge](https://img.shields.io/static/v1?label=&message=TypeScript&color=grey&logo=typescript) ![badge](https://img.shields.io/static/v1?label=&message=React&color=grey&logo=react)
+<br />
 
-**Infos** <br>
+- 👯 Co-founder of [JDO-Copilot](https://github.com/tidic84/JDOCopilot)
+
+- 🔭 Currently working on [Igloo Project](https://github.com/aweirdwhale/IglooProject)
+
+- 🌱 Learning **ReactNative, React, gsap, Three.js**
+
+- 🤝 Looking for contributors on **Igloo Project**
+
+- 👨‍💻 All of my projects are available [here](http://jdocopilot.me/)
+
+<br>
+<h3>✨ Some things i'm tweaking ✨</h3> <br>
+
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aweirdwhale&show_icons=true&locale=en" alt="aweirdwhale" /></p>
+
+
+### Infos <br>
 :eyes: Profile picture by me 😌
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/aweirdwhale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aweirdwhale" height="30" width="40" /></a>
+<a href="https://instagram.com/a.weirdwhale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.weirdwhale" height="30" width="40" /></a>
+<a href="https://dribbble.com/aweirdwhale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="aweirdwhale" height="30" width="40" /></a>
+</p>
+
 <br>
 <br>
-
-
