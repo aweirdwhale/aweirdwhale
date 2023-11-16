@@ -9,13 +9,11 @@
 
 - 👯 Co-founder of [JDO-Copilot](https://github.com/tidic84/JDOCopilot)
 
-- 🔭 Currently working on [Igloo Project](https://github.com/aweirdwhale/IglooProject)
+- 🔭 Currently working on [Glint](https://github.com/aweirdwhale/Glint)
 
 - 🌱 Learning **ReactNative, React, gsap, Three.js**
 
-- 🤝 Looking for contributors on **Igloo Project**
-
-- 👨‍💻 All of my projects are available [here](http://jdocopilot.me/)
+- 👨‍💻 All of my projects are available [here](https://aweirdwhale.com)
 
 <br>
 <h3>✨ Some things i'm tweaking ✨</h3> <br>
