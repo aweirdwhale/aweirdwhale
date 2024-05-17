@@ -10,6 +10,6 @@
 <br />
 
 ### - **👯 Co-founder of [JDO-Copilot](https://github.com/tidic84/JDOCopilot) (not maintained :/)**
-### - **🔭 Currently working on a [MF Mirror !](https://github.com/aweirdwhale/MFMirror)**
+### - **🔭 Founder of [MF Mirror !](https://github.com/aweirdwhale/MFMirror) (either not maintained lol)**
 
 </div>
