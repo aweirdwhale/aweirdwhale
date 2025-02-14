@@ -19,5 +19,5 @@ The main aim of the application is to optimise movement around the school, using
 *> This project isn't really finished either, but same arguments as before, maybe one of my masterpieces.*
 
 <div align="center">
-<img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/429/881/datas/original.gif">
+<img src="./original.gif">
 </div>
