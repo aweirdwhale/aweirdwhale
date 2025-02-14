@@ -19,5 +19,5 @@ The main aim of the application is to optimise movement around the school, using
 *> This project isn't really finished either, but same arguments as before, maybe one of my masterpieces.*
 
 <div align="center">
-<img src="https://media.discordapp.net/attachments/657940718186266645/1290007903381749882/image.png?ex=66fae4fb&is=66f9937b&hm=bee5be9e21171cb4b306fe7d48d33d4490e5a66cb8860fe6ac42e433d6355859&=&format=webp&quality=lossless&width=351&height=350">
+<img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/429/881/datas/original.gif">
 </div>
