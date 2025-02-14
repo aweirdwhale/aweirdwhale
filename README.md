@@ -1,6 +1,8 @@
-# Hum, Hello
+![header](https://i.pinimg.com/736x/bb/50/e9/bb50e9ffce8c7ac430c4d79fc16b821c.jpg)
 
-###### My name is Olivier. I'm a french student looking to become software engeneering teacher. Anyway, here you'll find my projects, most are unfinished but it should be okay. I really like creating things and uhh.. art?.
+# Hey there !
+
+###### My name is Olivier. I'm a french student looking to become software engeneering teacher, or researcher or idk engineer. Anyway, here you'll find my projects, most are unfinished but but uh who cares ? **Me.** I do care. I do blame myself every morning telling the mirror "Hey you foolish dummy are you going to achieve something in your life one day?". Oh and I really like art too btw.
 
 ---
 
@@ -19,10 +21,3 @@ The main aim of the application is to optimise movement around the school, using
 <div align="center">
 <img src="https://media.discordapp.net/attachments/657940718186266645/1290007903381749882/image.png?ex=66fae4fb&is=66f9937b&hm=bee5be9e21171cb4b306fe7d48d33d4490e5a66cb8860fe6ac42e433d6355859&=&format=webp&quality=lossless&width=351&height=350">
 </div>
-
-### As a great programmer, I commit everyday !
-
-*(lying)*
-
-![stats](https://awesome-github-stats.azurewebsites.net/user-stats/aweirdwhale?cardType=level&theme=github-dark&preferLogin=true&Background=DD272700&Ring=B632A6)
-
