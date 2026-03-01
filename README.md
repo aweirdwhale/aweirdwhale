@@ -4,7 +4,7 @@
 </div>
 
 
-# Bonjour ici !
+# Bonjour !
 
 #### Je suis Olivier, un étudiant français en 2ème année de CPGE (Maths spé). J'aimerais travailler comme ingénieur Systèmes Électroniques Embarqués : en R&D dans le domaine de l'automobile ou de l'aérospatial. 
 **Bienvenue dans  le "Doomland of unfinished projects"** :
