@@ -1,4 +1,8 @@
-![header](./header-twitter-studio-ghibli-Favim.com-6150276.jpg)
+<!--![header](./header-twitter-studio-ghibli-Favim.com-6150276.jpg)-->
+<div align="center">
+<img src="./original.gif">
+</div>
+
 
 # Bonjour ici !
 
@@ -7,7 +11,8 @@
 ---
 ```
 Note aux équipes de recruttement :
-Ce github héberge des projets depuis ~2020. Il n'est pas très professionnel mais reflète plutôt bien mon engouement pour les projets d'informatique et d'électronique.
+Ce github héberge des projets depuis ~2020.
+Il n'est pas très professionnel mais reflète plutôt bien mon engouement pour les projets d'informatique et d'électronique.
 ```
 ---
 ### Parcours éducatif :
@@ -16,6 +21,3 @@ J'ai eu mon bac avec les spécialités mathématiques et informatique en 2024. J
 
 
 ---
-<div align="center">
-<img src="./original.gif">
-</div>
