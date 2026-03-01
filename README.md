@@ -1,6 +1,6 @@
 <!--![header](./header-twitter-studio-ghibli-Favim.com-6150276.jpg)-->
 <div align="center">
-<img src="./banner.svg" style="width: 100%">
+<img src="./banner(1).svg" style="width: 100%">
 </div>
 
 
