@@ -11,9 +11,9 @@ Ce github héberge des projets depuis ~2020. Il n'est pas très professionnel ma
 ```
 ---
 ### Parcours éducatif :
-J'ai eu mon bac avec les spécialités mathématiques et informatique en 2024. J'ai eu l'occasion de participer au concours général de NSI, et à des événements de code comme [CodingUp][https://codingup.fr/]. Je suis maintenant en deuxième année de CPGE MPI à Poitiers.
+J'ai eu mon bac avec les spécialités mathématiques et informatique en 2024. J'ai eu l'occasion de participer au concours général de NSI, et à des événements de code comme [CodingUp](https://codingup.fr/). Je suis maintenant en deuxième année de CPGE MPI à Poitiers.
+![MP2I|83](https://img.shields.io/badge/MP2I_CG-FF00fF?style=for-the-badge&logo=MAIL.RU&logoColor=white)![MPI|83](https://img.shields.io/badge/MPI_CG-FF0000?style=for-the-badge&logo=MAIL.RU&logoColor=white)
 
-![MPI|83](https://img.shields.io/badge/MPI_CG-FF0000?style=for-the-badge&logo=MAIL.RU&logoColor=white)
 
 ---
 <div align="center">
